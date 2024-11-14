@@ -1,0 +1,24 @@
+@media screen and (max-width: 575px) {
+    .border {
+      padding: 1rem;
+      font-size: 0.9rem;
+    }
+  
+    .left-column {
+      text-align: center; /* Adjusts text alignment */
+    }
+  
+    .right-column img {
+      width: 100%; /* Ensures images scale properly */
+      height: auto;
+    }
+  
+    .right-column h2, .right-column p {
+      font-size: 1rem; /* Adjust font size for better readability */
+    }
+  
+    .right-column button {
+      width: 100%; /* Make buttons full-width */
+    }
+  }
+  
